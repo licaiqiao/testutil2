@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="startview">
+        <attr name="types" format="integer" />
+        <attr name="start_num" format="integer" />
+        <attr name="default_num" format="integer" />
+        <attr name="names" format="string" />
+    </declare-styleable>
+
+</resources>
